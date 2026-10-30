@@ -2,6 +2,17 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.56 · 30 October 2026
+
+**Over a thousand more people and places from the interviews, and a calmer graph**
+
+- About 1,400 more people and places and 3,600 more connections, drawn from the interviews themselves: tasting-room staff, interns, assistants and the careers that ran through them.
+- The graph opens calmer: the best-connected people and places are drawn in full and the rest faintly, with their lines and names appearing as you zoom in. Opening any record draws it, and everything it connects to, in full.
+- Dozens of duplicates merged into one record each, under the spelling their owners use, such as Ian Burch, Russ Rosner and Briana Seeley.
+- Forty more vineyards on the map, from King Estate and Amalie Robert to Cristom's named blocks, and new records for Balcombe, Corrine, Lia's and La Belle Promenade vineyards.
+- Opening a record on the map now zooms in to it; a button over the map, or the Z key, shows all its connections.
+- A link copied from the map or the list now opens in the same view.
+
 ## 1.55 · 29 October 2026
 
 **The map follows the years, shows where the vines are, and remembers old names**
