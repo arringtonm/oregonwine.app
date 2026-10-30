@@ -1,0 +1,11 @@
+name: Idea
+description: Something you'd like the site to do
+title: "Idea: "
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like, and what would you use it for?
+    validations:
+      required: true

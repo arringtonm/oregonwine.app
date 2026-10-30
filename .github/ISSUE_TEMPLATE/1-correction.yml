@@ -1,0 +1,30 @@
+name: Correction
+description: A fact on the site is wrong (a name, a year, a role or a connection)
+title: "Correction: "
+labels: [correction]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Which record?
+      description: Paste the record's address from the site, e.g. https://www.oregonwine.app/the-eyrie-vineyards
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong, and what should it say?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A published page, interview, article or book that says so. Corrections with a source are checked and applied fastest.
+  - type: checkboxes
+    id: public
+    attributes:
+      label: This report is public
+      options:
+        - label: I understand everyone can read this issue, and I haven't included private details.
+          required: true

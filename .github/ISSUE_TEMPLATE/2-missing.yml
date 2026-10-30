@@ -1,0 +1,38 @@
+name: Missing person, place or connection
+description: Someone or something in Oregon wine that the site doesn't have yet
+title: "Missing: "
+labels: [missing]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What's missing?
+      options:
+        - A person
+        - A winery
+        - A vineyard
+        - An organization or event
+        - A connection between records already on the site
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Tell us about it
+      description: Names, places and years, and how it connects to people or places already on the site.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Sources
+      description: Published pages that say so. Every record on the site cites at least one.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public
+    attributes:
+      label: This report is public
+      options:
+        - label: I understand everyone can read this issue, and I haven't included private details.
+          required: true
