@@ -4,7 +4,7 @@ Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in 
 
 ## 1.56 · 30 October 2026
 
-**Over a thousand more people and places from the interviews, and a calmer graph**
+**The biggest gain in data yet: over a thousand more people and places from the interviews, and a calmer graph**
 
 - About 1,400 more people and places and 3,600 more connections, drawn from the interviews themselves: tasting-room staff, interns, assistants and the careers that ran through them.
 - The graph opens calmer: the best-connected people and places are drawn in full and the rest faintly, with their lines and names appearing as you zoom in. Opening any record draws it, and everything it connects to, in full.
