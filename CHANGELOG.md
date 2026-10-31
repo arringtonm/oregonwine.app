@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.57 · 30 October 2026
+
+**The map's years show only what existed then, and 169 more wineries and vineyards are dated**
+
+- Going back in time on the map now shows only the wineries and vineyards known by that year. Those with no year on record used to crowd 1965 faintly; they now appear at the end of the timeline.
+- 169 more wineries and vineyards have a founding or planting year from their sources, such as Troon Vineyard's first plantings in 1972, Cooper Mountain in 1978 and Cowhorn in 2005, so they now appear in the right year on the map and the graph.
+- Corrected details for Zenith Vineyard, first planted in 1989, and Amaterra, which opened in January 2022.
+
 ## 1.56 · 30 October 2026
 
 **The biggest gain in data yet: over a thousand more people and places from the interviews, and a calmer graph**
