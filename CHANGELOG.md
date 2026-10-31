@@ -2,6 +2,16 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.58 · 30 October 2026
+
+**A wider, calmer graph, a Timeline switch, and 93 more wineries and vineyards dated**
+
+- On a computer the graph spreads across the screen into the corners, centred beside the details, with outlying records drawn in. Organizations start hidden, so the graph opens on the people and places; Organizations in Filters brings them back.
+- Timeline in the toolbar opens and closes going back in time, and plays a little slower. Filters has a Year slider of its own, and its AVA list opens in place, grouped by region.
+- Wineries can now show their first vintage beside their founding year, and the timeline uses it when it's the earlier year. 93 more wineries and vineyards are dated this way or by founding and planting years.
+- On the map, Show all its connections sits just under the place it works on, the credits are a line of text instead of an i, and the map runs under the details panel.
+- Clicking the site's name goes back to the start. Hover cards stay on screen at the edges, the About button and its tooltip line up with the zoom buttons, and the AVA regions view is gone.
+
 ## 1.57 · 30 October 2026
 
 **The map's years show only what existed then, and 169 more wineries and vineyards are dated**
