@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.60 · 31 October 2026
+
+**283 people and places from Michael Alberty’s Oregonian columns**
+
+- Michael Alberty’s wine columns for The Oregonian, 2021 to 2026, add 148 people, 56 wineries, 43 vineyards and 27 organizations, with 840 connections; each cites its column on Here is Oregon
+- Turning on Organizations no longer rearranges the whole graph
+
 ## 1.59 · 31 October 2026
 
 **Norris Wines’ story, and wine writer Michael Alberty**
