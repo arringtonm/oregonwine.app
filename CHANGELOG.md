@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.59 · 31 October 2026
+
+**Norris Wines’ story, and wine writer Michael Alberty**
+
+- Norris Vineyard, the McKinley family’s Ribbon Ridge estate, joins the graph, with Robert McKinley’s path from Trisaetum and Cal Poly to Norris Wines’ first vintage in 2020, from the November Weinnotes
+- Michael Alberty, wine columnist for The Oregonian and Oregon reviewer for Wine Enthusiast, joins the graph with the publications he writes for
+
 ## 1.58 · 30 October 2026
 
 **A wider, calmer graph, a Timeline switch, and 93 more wineries and vineyards dated**
