@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.68 · 1 November 2026
+
+**Opened records stay shown, and cards count connections the filters hide**
+
+- A record you open stays on the graph through other filter changes, until the filter hiding it is turned off or Reset
+- A card says how many of its connections are to records the filters hide ("3 of its connections are to organizations, which are hidden"), and Show them draws just those
+
 ## 1.67 · 1 November 2026
 
 **Records you open show on the graph, even when the filters hide their kind**
