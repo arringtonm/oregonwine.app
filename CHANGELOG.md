@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.65 · 1 November 2026
+
+**Oregon leads the opening view, and some peripheral records go**
+
+- Records outside Oregon, and those wholly in the Walla Walla Valley or the Rocks District, are drawn by their ties to the rest of Oregon, so Oregon's own people and places lead the opening graph; each is drawn in full once opened
+- 24 records outside what the graph covers removed: sales executives, a bookkeeper, a restaurant, a distributor, suppliers and relatives with no role of their own
+
 ## 1.64 · 1 November 2026
 
 **805 people and places from Great Northwest Wine and Wine Industry Advisor, with Walla Walla and the Rocks District**
