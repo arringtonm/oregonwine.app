@@ -2,6 +2,12 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.67 · 1 November 2026
+
+**Records you open show on the graph, even when the filters hide their kind**
+
+- A record opened by search, from a card or by a link is drawn with its connections even when the filters hide its kind (an organization, say), until Reset or a filter changes; its card says why, with a link to show the rest of its kind
+
 ## 1.66 · 1 November 2026
 
 **Ste. Michelle's Oregon purchases on the company's own record**
