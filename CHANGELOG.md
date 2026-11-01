@@ -2,6 +2,17 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.72 · 1 November 2026
+
+**Ask counts, lists and ranks, answers questions about the site, and lights its answers on the graph**
+
+- Ask “How many vineyards are in the Dundee Hills?”, “Wineries founded since 2010”, “Which vineyard sells to the most wineries?”, “Oldest winery” or “Who did Andrew Dirks work with?”; the answer is still read from the records, never written.
+- An answer says how much of the graph it rests on, such as “Founding year known for 441 of 949 Oregon wineries”, lists up to 25 records, and “Show all on the graph” lights every record it covers and dims the rest, with your filters left as they are; a label over the graph names them, and × or Esc clears it.
+- Questions about the site itself (“how do I see the map”, “what does the dashed ring mean”, “how are facts checked”) are answered in the site’s own words, with a button that points at the control or opens the right part of About.
+- Questions about hours, prices, scores, visiting or what to recommend say plainly what the graph doesn’t hold, and offer what it does: the record and its website, the best-connected wineries, the Guides.
+- Grape varieties aren’t searchable yet; a question naming one lists the records whose descriptions mention it, and “sparkling” offers the Sparkling guide.
+- “Wineries planted since 2010” reads as vineyards, with the winery reading offered under “Did you mean”.
+
 ## 1.71 · 1 November 2026
 
 **Fewer peripheral staff, and Sara Hauman added**
