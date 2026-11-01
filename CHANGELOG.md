@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.62 · 1 November 2026
+
+**175 people and places from Sip Magazine**
+
+- Sip Magazine's Oregon articles, 2011 to 2026, add 95 people, 40 wineries, 28 vineyards and 11 organizations, with 564 connections; each cites its article, and more than a thousand existing connections now cite Sip too
+- Events are now the ones that shape Oregon wine: recurring gatherings like IPNC and the Oregon Wine Symposium, landmark laws and milestone tastings. 21 one-off parties and small tastings are gone
+
 ## 1.61 · 31 October 2026
 
 **Pages load lighter: each record's details arrive as you open it**
