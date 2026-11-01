@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.63 · 1 November 2026
+
+**More wineries and vineyards on the map**
+
+- 80 more wineries now show where to visit them, and 29 more where their wine is made, from the Oregon Wine Board's directory, their own sites and their federal wine permits
+- 62 more vineyards are placed on the map, from their own sites, certification lists and the pages that describe them, with 15 more placed roughly from descriptions
+- 53 more cards link to the business's own website
+
 ## 1.62 · 1 November 2026
 
 **175 people and places from Sip Magazine**
