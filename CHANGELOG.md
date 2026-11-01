@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.61 · 31 October 2026
+
+**Pages load lighter: each record's details arrive as you open it**
+
+- The site's main script is about half the size it was, because each record's summary, sources and notes now load when its card opens, with the records you're likely to open next fetched ahead. Search still finds words that appear only in a summary.
+- Ask now has a fair-use limit: about 10 questions a minute and 100 a day from one place, and it says when you can ask again.
+- The pages search engines read now give each record's name, summary and connections, and crawlers that gather pages to train AI models are asked to stay away.
+
 ## 1.60 · 31 October 2026
 
 **283 people and places from Michael Alberty’s Oregonian columns**
