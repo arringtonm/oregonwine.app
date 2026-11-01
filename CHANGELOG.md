@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.69 · 1 November 2026
+
+**Esc steps back, and Recently viewed stays in sight**
+
+- Esc closes a record and leaves the graph where it is; press it again to see the whole graph or map.
+- On desktop, Saved and Recently viewed are pinned to the foot of the start panel, so they're in sight without scrolling.
+
 ## 1.68 · 1 November 2026
 
 **Opened records stay shown, and cards count connections the filters hide**
