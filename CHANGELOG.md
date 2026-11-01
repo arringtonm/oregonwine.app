@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.66 · 1 November 2026
+
+**Ste. Michelle's Oregon purchases on the company's own record**
+
+- Ste. Michelle Wine Estates now holds its Oregon purchases (Erath in 2006, Willakia Vineyard in 2014, Knight's Gambit Vineyard, and A to Z Wineworks with Rex Hill in 2022), which interviews had credited to its Chateau Ste. Michelle winery; a purchase misheard as WillaKenzie is now Willakia, as the interview says
+- A to Z and A to Z Wineworks are one record
+
 ## 1.65 · 1 November 2026
 
 **Oregon leads the opening view, and some peripheral records go**
