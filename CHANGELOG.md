@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.64 · 1 November 2026
+
+**805 people and places from Great Northwest Wine and Wine Industry Advisor, with Walla Walla and the Rocks District**
+
+- 883 articles from Great Northwest Wine, Wine Industry Advisor and Sip Magazine, read for who founded, owns and makes the wine where, and where the grapes come from: 805 new people and places and 2,582 new connections, 720 and 1,849 of them verified, and a further source for 4,317 connections already here
+- Wineries and vineyards of the Walla Walla Valley and the Rocks District, which share Oregon's border, and the people who run them, alongside those elsewhere that buy grapes from Oregon or sell grapes to it
+- Four Washington vineyards that grow grapes for Oregon wineries on the map: Les Collines, Upland, Destiny Ridge and Sagemoor
+
 ## 1.63 · 1 November 2026
 
 **More wineries and vineyards on the map**
