@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.70 · 1 November 2026
+
+**Esc steps back a level at a time; a tray for Recently viewed and Saved; a regrouped toolbar**
+
+- The first Esc stops dimming everything else, keeping the record, its highlighted connections, its card and your view; the second closes the record; a third fits the whole graph, as Fit does.
+- On desktop, Recently viewed and Saved sit in a tray at the foot of the sidebar, with a record open or not: two tabs, one list at a time, and a chevron to fold it away.
+- The toolbar is grouped by job: Back, Forward and History come first, before Search; then the ways of viewing (Graph, Map, List, Guides, Timeline); then the dice and Explore Connections; and Reset at the far end, away from Back.
+
 ## 1.69 · 1 November 2026
 
 **Esc steps back, and Recently viewed stays in sight**
