@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.71 · 1 November 2026
+
+**Fewer peripheral staff, and Sara Hauman added**
+
+- About a hundred records of sales, marketing, hospitality and office staff are gone, most of them named once in an oral-history interview. People who made wine, grew grapes, ran a winery or shaped the region stay.
+- Several people who appeared under two or three spellings from interview transcripts are now one record each.
+- Missing connections are filled in for people the audit kept, such as Rob Ahlstrom at Adelsheim, Corey Guinee at ETS Laboratories and Jim Day making wine at Panache Cellars.
+- Sara Hauman, Soter Vineyards' head chef, who competed on the season of Top Chef filmed in Oregon, joins chef Alex Daly.
+
 ## 1.70 · 1 November 2026
 
 **Esc steps back a level at a time; a tray for Recently viewed and Saved; a regrouped toolbar**
