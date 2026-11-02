@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.73 · 2 November 2026
+
+**Wines on the cards, and a search box that suggests**
+
+- Winery cards list the wines each one makes and the styles, such as sparkling and rosé, read from its federal label approvals; vineyard cards list what they grow, from labels that name them.
+- Click the empty search box for your recent records and questions to try. As you type a question it offers to finish it, with the answer beside it where the graph can say at once.
+- Close spellings of a name come before Ask, and answers suggest follow-up questions; the question can be edited after asking.
+- Ask understands tasting rooms, and answers questions about wine bars from the few the graph records.
+
 ## 1.72 · 1 November 2026
 
 **Ask counts, lists and ranks, answers questions about the site, and lights its answers on the graph**
