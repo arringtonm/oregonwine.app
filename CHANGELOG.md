@@ -2,6 +2,17 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.74 · 2 November 2026
+
+**Ask about places: what's near a winery or a town, where something is, and which wineries are like another**
+
+- Ask "wineries near Domaine Serene" or "tasting rooms in McMinnville" for the closest, with distances in miles; walking distance and day trips work too
+- A bare town name means the town, so "wineries in Dundee" counts the town and offers the Dundee Hills AVA as the other reading
+- "Where is …" gives a winery's tasting-room address, or where its wine is made when it has no tasting room
+- "Wineries like …" finds wineries with the same vineyards and AVAs: by connections, not taste
+- "Show these on the map" lights an answer's records and frames them on the map
+- Search offers a town row, such as "50 wineries in Dundee"
+
 ## 1.73 · 2 November 2026
 
 **Wines on the cards, and a search box that suggests**
