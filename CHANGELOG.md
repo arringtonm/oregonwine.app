@@ -2,6 +2,16 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.75 · 2 November 2026
+
+**Every tasting room a winery runs, on the card, the map and in Ask**
+
+- Winery cards list every room: "Also pours in: Bend, Lake Oswego …", each with directions
+- The map marks each room, and "near" measures from a winery's closest room
+- Bend has its tasting rooms now: nine wineries pour there
+- 61 more wineries with tasting rooms, from the Gorge to Jacksonville and the Walla Walla Valley
+- Ask "who pours at the Carlton Winemakers Studio" for the wineries sharing a room
+
 ## 1.74 · 2 November 2026
 
 **Ask about places: what's near a winery or a town, where something is, and which wineries are like another**
