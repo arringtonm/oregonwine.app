@@ -2,6 +2,20 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.76 · 2 November 2026
+
+**Ask about grapes, a Wines section on each card, and a tidier card**
+
+- Ask which wineries make a grape or style, where, and who makes the most: "rosé in Dundee", "who makes the most Pinot gris", "does Eyrie make Chardonnay"
+- Each winery's card has a Wines section that sums up its range in plain words, from its federal label approvals, with the details behind an i
+- The top of the card is shorter: Directions, Website and Call buttons, with every tasting room's address, phone and a copy button under Directions
+- "Near me" and "nearby" ask your browser where you are, only when you ask, and your location never leaves your browser
+- "Wineries like …" weighs shared owners, winemakers and vineyards first, so Beaux Frères finds Sequitur
+- Show on the graph now closes the open card and lights the answer, from any view
+- Search finds names the filters hide, such as wine bars
+- Tasting rooms in Washington within 20 miles of Portland, starting with Willamette Valley Vineyards in Vancouver
+- Who planted Oregon's first Pinot noir: both answers, Richard Sommer in 1961 and David Lett in the Willamette Valley in 1965
+
 ## 1.75 · 2 November 2026
 
 **Every tasting room a winery runs, on the card, the map and in Ask**
