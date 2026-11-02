@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.77 · 2 November 2026
+
+**A mark for records outside Oregon, and Explore Connections from the toolbar**
+
+- Records outside Oregon carry a small crossed-out Oregon; tap or hover it for why the graph includes them, such as a vineyard they buy from
+- Explore Connections on a card opens the toolbar's panel, with the record already filled in, and sits quietly after the count of connections
+- Failla is placed in St. Helena, CA, with its Oregon tasting room near Gaston
+- Va Piano's Walla Walla estate tasting room joins its Bend room
+
 ## 1.76 · 2 November 2026
 
 **Ask about grapes, a Wines section on each card, and a tidier card**
