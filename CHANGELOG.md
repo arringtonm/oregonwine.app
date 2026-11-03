@@ -2,6 +2,16 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.79 · 3 November 2026
+
+**New wineries and vineyards, and a closer look at where wineries buy their grapes**
+
+- Perry Colin, the Chardonnay label Matt Perry started with Simon Colin from Burgundy, with the vineyards it buys from
+- About two dozen new records from wine shop listings, among them Redolent, Jacob Martin and vineyards such as Stormy Morning, Bellevue Cross and White Walnut
+- More than a hundred new connections showing which vineyards wineries buy from, and who makes their wines
+- Rain Dance and Stoneridge vineyards spelled as their owners write them, with Grand Oak shown as part of Rain Dance
+- Several people and vineyards that were in the graph twice under different spellings are now one record each
+
 ## 1.78 · 2 November 2026
 
 **A new tour, easier-to-read answers, and hundreds of records checked against their sources**
