@@ -2,6 +2,16 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.78 · 2 November 2026
+
+**A new tour, easier-to-read answers, and hundreds of records checked against their sources**
+
+- The tour starts with a short welcome, then covers the map, Kevin Bacon mode and how to step back out with Esc
+- Ask's answers that list wineries lead with one line, then a row per winery with its strongest reason, in a wider panel
+- Misspelled duplicate names merged into the spelling written sources use, from Jan Jacobsen to Luke Wylde
+- Draft connections checked again by research and the automated check, and against official records: a winery's own federal label approval naming the vineyard, or the Willamette Valley Wineries Association's member listing
+- BlackCap is Jason Lett's own label, not Eyrie's
+
 ## 1.77 · 2 November 2026
 
 **A mark for records outside Oregon, and Explore Connections from the toolbar**
