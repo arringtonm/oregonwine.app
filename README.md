@@ -10,34 +10,80 @@ This repository is the site's public companion. It holds:
 
 The site's own code and data pipeline are not published here.
 
+![The graph: thousands of people, wineries and vineyards, with the best-connected named](screenshots/graph.jpg)
+
 ## What you can explore
 
-- **The graph.** Every person, winery, vineyard, AVA, organization and event is a point, and every relationship between them is a line. Select one to see its story, its connections and the sources for each.
-- **The map.** Wineries at the addresses they give visitors, or where their wine is made. Vineyards are shown at their own sites and, where they're mapped, as outlines of the land under vine. The official AVA boundaries are drawn too, and lines show which vineyards supply which wineries.
-- **Through the years.** A year bar shows the graph or the map as it stood in any year. Press Play to watch Oregon wine grow from the 1960s.
-- **Explore Connections.** Name any two people or places to see the fewest steps between them.
-- **Search, filters, guides and a list view,** for finding a record by name, place or question, and reading it by keyboard or screen reader.
+### The graph
+
+Every person, winery, vineyard, AVA, organization and event is a point, and every relationship between them is a line. Open one to see its story, its connections and the sources for each. A winery's card also gives its tasting rooms with directions, its website and phone, and a summary of the wines it makes, read from its federal label approvals.
+
+![The Eyrie Vineyards open on the graph, with its connections drawn and its card beside them](screenshots/record.jpg)
+
+### The map
+
+Wineries at every tasting room they run, or where their wine is made. Vineyards are shown at their own sites and, where they're mapped, as outlines of the land under vine. The official AVA boundaries are drawn too, and lines show which vineyards supply which wineries. Opening a record zooms in to it; **Show all its connections** frames everything it's tied to.
+
+![Argyle Winery on the map, with lines to the vineyards it buys from and the Dundee Hills around it](screenshots/map.jpg)
+
+### Ask
+
+Search by name, or ask a question in plain words: "Wineries near Domaine Serene", "Who makes the most Pinot gris?", "Which vineyard sells to the most wineries?", "Wineries founded since 2010". Answers are read from the records, never made up, say how much of the graph they rest on, and can be shown on the graph or the map.
+
+![Ask answering "wineries near Domaine Serene" with the closest tasting rooms and their distances](screenshots/ask.jpg)
+
+### Explore Connections
+
+Name any two people or places to see the fewest steps between them, each step with its source. **Another way** shows the next path.
+
+![How David Lett and Beaux Frères are connected, in three steps through UC Davis](screenshots/connections.jpg)
+
+### Through the years
+
+**Timeline** shows the graph or the map as it stood in any year. Press Play to watch Oregon wine grow from the 1960s.
+
+![The map in 1975: the first few dozen wineries and vineyards of the northern Willamette Valley](screenshots/timeline.jpg)
+
+### More to do with a record
+
+Right-click a record on the graph, the map or in the list, or press and hold it on a phone, for a short menu: open it, wineries like it, tasting rooms nearby, the other view, directions, save it or copy its link. Right-click a connection line to see how its two ends connect.
+
+![The menu for Beaux Frères on the graph](screenshots/menu.jpg)
+
+### On a phone
+
+The whole site works on a phone, with the record in a sheet under the graph or the map, and in light and dark.
+
+<p>
+  <img src="screenshots/phone-record.jpg" width="300" alt="Domaine Serene on a phone, in dark mode, on the graph">
+  <img src="screenshots/phone-map.jpg" width="300" alt="Domaine Serene on a phone, in dark mode, on the map">
+</p>
+
+### And
+
+- **Guides,** curated views such as Southern Oregon or Sparkling, and a **list view** for reading everything by name, by keyboard or screen reader.
+- **Saved and Recently viewed,** kept in your browser.
 - **Oral histories.** Hundreds of people and places link to their interview in Linfield University's Oregon Wine History Archive.
 
 Every record has its own address. For example, [oregonwine.app/the-eyrie-vineyards](https://www.oregonwine.app/the-eyrie-vineyards) opens straight to The Eyrie Vineyards.
 
 ## What's in it
 
-As of 29 October 2026 (version 1.55):
+As of 4 November 2026 (version 1.80):
 
 | | Records |
 |---|---|
-| People | 1,155 |
-| Wineries | 665 |
-| Vineyards | 291 |
-| Organizations | 78 |
-| AVAs | 21 |
-| Events | 15 |
-| **Connections** | **5,835** |
+| People | 2,476 |
+| Wineries | 1,166 |
+| Vineyards | 703 |
+| Organizations | 425 |
+| AVAs | 25 |
+| Events | 17 |
+| **Connections** | **13,540** |
 
-About four in five of these records are verified against their sources; [How it's made](METHODOLOGY.md) explains how.
+Nearly nine in ten of these records are verified against their sources; [How it's made](METHODOLOGY.md) explains how.
 
-Coverage is strongest for the northern Willamette Valley, where Oregon's modern wine industry began and where most published history concentrates. Southern Oregon, the Columbia Gorge and Walla Walla are thinner.
+Coverage is strongest for the northern Willamette Valley, where Oregon's modern wine industry began and where most published history concentrates. The Walla Walla Valley and the Rocks District, which share Oregon's border, are included with their people and places. Southern Oregon and the Columbia Gorge are thinner.
 
 ## Reporting a problem
 
