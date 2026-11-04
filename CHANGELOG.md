@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.80 · 4 November 2026
+
+**More to do with a record from a right-click or a long press**
+
+- Right-click a winery, person or vineyard on the graph, the map or in the list for what you can do with it: open it, see wineries like it or tasting rooms nearby, get directions, save it or copy its link. On a phone or tablet, press and hold
+- Right-click a connection line on the graph to see how its two ends connect, or open either one
+- On the map, the button under an open record has a ⋯ for the same menu, and right-clicking an empty spot finds the wineries near it
+- Shift+F10 opens the menu for the open record from the keyboard
+
 ## 1.79 · 3 November 2026
 
 **New wineries and vineyards, and a closer look at where wineries buy their grapes**
