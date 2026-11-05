@@ -2,6 +2,18 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.82 · 4 November 2026
+
+**A lighter tour on phones**
+
+- On phones each tour step shows one short line and its Try it, in a card about a fifth of the screen; More opens the step's full text
+- The tour's card no longer flickers between two places on its last steps
+- The tour's buttons are easier to tap
+- Saved shows how many records you've saved
+- Drop-down menus, such as the list's sort, match the site's look
+- On phones the top of the details sheet is slimmer and no longer shows text scrolling beneath it
+- Clearer wording across the site: Explore Connections, the Timeline and the Controls guide
+
 ## 1.81 · 4 November 2026
 
 **The site now counts how it’s used, without cookies**
