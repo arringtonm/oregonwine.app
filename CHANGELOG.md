@@ -2,6 +2,19 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.83 · 5 November 2026
+
+**Quicker taps, and a tour you can follow**
+
+- Opening a record answers your tap much sooner, especially on phones
+- A record with a long list of connections shows its first 30, with Show all for the rest
+- The map no longer slows the graph down after you've visited it
+- The tour's card glides as it moves and when it grows or shrinks, so you can follow it
+- The tour's record step says to scroll down for its connections, each marked with a coloured icon
+- The tour explains how search tells a question from a name
+- Guides are put away for now; links to a guide still open it
+- Floating panels are solid rather than frosted on touch screens
+
 ## 1.82 · 4 November 2026
 
 **A lighter tour on phones**
