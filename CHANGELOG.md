@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.81 · 4 November 2026
+
+**The site now counts how it’s used, without cookies**
+
+- It counts which records are opened, which views and features are used, which site sent you here, your country and state, and whether you’re on a phone, tablet or computer, to learn what helps readers most
+- Nothing is kept on your device and nothing you type is sent; it can’t link your visits from one day to the next, and the details are deleted after 90 days. About’s privacy section has the full list
+- Browsers that send Global Privacy Control or Do Not Track aren’t counted
+
 ## 1.80 · 4 November 2026
 
 **More to do with a record from a right-click or a long press**
