@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.85 · 7 November 2026
+
+**Tell us what's broken, or what you'd like**
+
+- Feedback? Bugs? at the top of every page opens a short form for a bug or any other feedback
+- On phones it reads Feedback
+- About's privacy section says what's sent with it
+
 ## 1.84 · 7 November 2026
 
 **Search or ask, and a clearer controls guide on phones**
