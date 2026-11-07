@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.84 · 7 November 2026
+
+**Search or ask, and a clearer controls guide on phones**
+
+- The search box says Search or ask on phones, so it's clear it finds names as well as answering questions
+- Reset sits at the end of the toolbar's second row on phones, to make room
+- The controls guide no longer scrolls sideways, and on phones each action sits above its ways in plainer words
+- The filters drawer is solid, so the list behind no longer shows through
+
 ## 1.83 · 5 November 2026
 
 **Quicker taps, and a tour you can follow**
