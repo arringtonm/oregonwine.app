@@ -6,7 +6,7 @@ Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in 
 
 **Cleaner names, and more records checked**
 
-- About 70 people and places now go by the spelling their own sites and the press use, and duplicates are merged; old links still work
+- About 70 people and places now go by the spelling their own sites and the press use, and duplicates are merged
 - Closed tasting rooms are marked closed, and wrong addresses are gone
 - More records are verified against their sources, among them Beaux Frères' first vintage and Stoller's
 
