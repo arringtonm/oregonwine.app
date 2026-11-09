@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.86 · 9 November 2026
+
+**Cleaner names, and more records checked**
+
+- About 70 people and places now go by the spelling their own sites and the press use, and duplicates are merged; old links still work
+- Closed tasting rooms are marked closed, and wrong addresses are gone
+- More records are verified against their sources, among them Beaux Frères' first vintage and Stoller's
+
 ## 1.85 · 7 November 2026
 
 **Tell us what's broken, or what you'd like**
