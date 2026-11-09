@@ -2,6 +2,12 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.87 · 9 November 2026
+
+**Old links keep working**
+
+- Links to people and places that were renamed or merged now lead to the record, and records you saved or viewed before keep their place in your lists
+
 ## 1.86 · 9 November 2026
 
 **Cleaner names, and more records checked**
