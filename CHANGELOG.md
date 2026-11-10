@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.91 · 10 November 2026
+
+**29 more records verified, among them Beaux Frères, Bergström, Ken Wright and the Yamhill-Carlton AVA**
+
+- 29 more records verified against their sources, among them Beaux Frères, Bergström, Ken Wright, Christophe Baron and the Yamhill-Carlton and Columbia Valley AVAs
+- Corrections and new sources for 30 records, from a fresh round of research
+- New: Hamilton Russell Oregon, Cassin Vineyard, and where Division Winemaking Company buys its grapes
+- Andrew Dirks's start at Abbott Claim, 2020, is now dated
+
 ## 1.90 · 9 November 2026
 
 **36 new people and places, and about 100 more connections, from wine podcasts**
