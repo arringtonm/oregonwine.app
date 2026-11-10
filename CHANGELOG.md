@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.89 · 9 November 2026
+
+**Quicker taps, and a reply if you want one**
+
+- Opening a record answers your tap sooner, by up to a third on phones
+- The feedback form takes an email, if you'd like a reply; on phones its button reads Beta · Feedback?
+- Over a hundred more people, places and connections are verified against their sources
+
 ## 1.88 · 9 November 2026
 
 **Richer pages for search engines**
