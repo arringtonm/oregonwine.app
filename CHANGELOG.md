@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.92 · 10 November 2026
+
+**167 more records verified, and corrections to about 70 more**
+
+- 167 more records verified: the checker now reads more of each long page, such as Federal Register rules and Wikipedia articles, before deciding
+- Corrections and new sources for about 70 records, among them Seven Hills Vineyard, Sineann, Fairsing Vineyard and the early Pinot noir plantings
+
 ## 1.91 · 10 November 2026
 
 **29 more records verified, among them Beaux Frères, Bergström, Ken Wright and the Yamhill-Carlton AVA**
