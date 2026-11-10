@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.90 · 9 November 2026
+
+**36 new people and places, and about 100 more connections, from wine podcasts**
+
+- From wine podcasts: 36 new people and places and 95 new connections, each checked against what was said
+- Spellings corrected: Parrett Mountain Cellars, Arlyn Vineyard, Symonette Vineyard and Tom Symonette; old links and searches for the old spellings still work
+- Nuestro Sueño Vineyard and Symonette Vineyard are one vineyard, now one record
+- Seven more records verified, among them Mark Vlossak, Melissa Burr, Myron Redford and Sineann
+
 ## 1.89 · 9 November 2026
 
 **Quicker taps, and a reply if you want one**
