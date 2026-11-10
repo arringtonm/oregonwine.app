@@ -2,6 +2,12 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.88 · 9 November 2026
+
+**Richer pages for search engines**
+
+- Each record's page now says how it's connected (co-founder, winemaker, estate vineyard) and what's nearby, so search engines can find more of Oregon wine
+
 ## 1.87 · 9 November 2026
 
 **Old links keep working**
