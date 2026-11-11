@@ -2,6 +2,17 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.95 · 11 November 2026
+
+**Ask answers more, and the graph fits wide screens**
+
+- The graph lies on its side on computers and landscape screens, so it draws larger and fills more of the screen
+- Ask answers who made the wine, owned or worked somewhere now or in a given year, such as “who was winemaker at Argyle in 2010”
+- Ask answers what a person or company owns, which AVAs lie within one, what became of a winery, when two records' connection began, and “tell me about…”
+- Ask says the site is independent, and the Feedback answer and About link to public issue reports on GitHub
+- Plainer wording in the tour, the start panel, Guides and About's privacy notes
+- Erath Winery is no longer shown as closed in 1988
+
 ## 1.94 · 10 November 2026
 
 **Domaine Verdant's owner and estate vineyard**
