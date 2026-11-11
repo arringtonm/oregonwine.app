@@ -61,7 +61,7 @@ The whole site works on a phone, with the record in a sheet under the graph or t
 
 ### And
 
-- **Guides,** curated views such as Southern Oregon or Sparkling, and a **list view** for reading everything by name, by keyboard or screen reader.
+- **A list view** for reading everything by name, by keyboard or screen reader.
 - **Saved and Recently viewed,** kept in your browser.
 - **Oral histories.** Hundreds of people and places link to their interview in Linfield University's Oregon Wine History Archive.
 
@@ -69,17 +69,17 @@ Every record has its own address. For example, [oregonwine.app/the-eyrie-vineyar
 
 ## What's in it
 
-As of 4 November 2026 (version 1.80):
+As of 10 November 2026 (version 1.94):
 
 | | Records |
 |---|---|
-| People | 2,476 |
-| Wineries | 1,166 |
-| Vineyards | 703 |
-| Organizations | 425 |
+| People | 2,477 |
+| Wineries | 1,167 |
+| Vineyards | 700 |
+| Organizations | 424 |
 | AVAs | 25 |
 | Events | 17 |
-| **Connections** | **13,540** |
+| **Connections** | **13,609** |
 
 Nearly nine in ten of these records are verified against their sources; [How it's made](METHODOLOGY.md) explains how.
 
@@ -94,7 +94,7 @@ Coverage is strongest for the northern Willamette Valley, where Oregon's modern 
 - **Site problem:** something that doesn't work or looks wrong, with your device and browser.
 - **Idea:** something you'd like the site to do.
 
-Issues here are public. To report something privately, use **Flag** at the foot of any record on the site instead. Flags go only to the site's maintainer and are checked against the record's sources each morning.
+Issues here are public. To report something privately, use **Flag** at the foot of any record on the site instead. Flags go only to the site's maintainer and are checked against the record's sources each morning. For anything else, **Feedback** at the top of every page opens a short private form, with an email field if you'd like a reply.
 
 The most useful sources are published and specific: an interview, a winery's own history page, or a news story or book that names the people and the years. Corrections that come with a source are checked and applied like any other record.
 
