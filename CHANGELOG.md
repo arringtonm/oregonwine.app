@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.94 · 10 November 2026
+
+**Domaine Verdant's owner and estate vineyard**
+
+- Ron Sanchez shown as Domaine Verdant's owner as well as its winemaker
+- Green Acres Vineyards, Domaine Verdant's ten-acre Yamhill-Carlton estate, planted in 1998 and 1999
+
 ## 1.93 · 10 November 2026
 
 **Ron Sanchez and Domaine Verdant**
