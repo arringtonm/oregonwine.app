@@ -2,6 +2,12 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.93 · 10 November 2026
+
+**Ron Sanchez and Domaine Verdant**
+
+- Ron Sanchez, a Copenhagen Business School professor emeritus, and Domaine Verdant, his Yamhill-Carlton estate making Pinot noir and Chardonnay since the 2010 vintage
+
 ## 1.92 · 10 November 2026
 
 **167 more records verified, and corrections to about 70 more**
