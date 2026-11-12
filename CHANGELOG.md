@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.96 · 12 November 2026
+
+**Wine Crush Podcast and the Oregon Wine History Archive**
+
+- The Wine Crush Podcast and its founder and host, Heidi Moore, join A.J. Weinzettel and Weinnotes
+- The Oregon Wine History Archive at Linfield has its own record, with its archivist Rachael Woody and interviewers Rich Schmidt and Stephanie Hofmann
+
 ## 1.95 · 11 November 2026
 
 **Ask answers more, and the graph fits wide screens**
