@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.97 · 13 November 2026
+
+**Wine sizes, Block 55's clients, and a sidebar you can widen**
+
+- A winery's Wines line gives its size where a source says it, such as “6,000 cases a year, with 50 acres of estate vines”, with years and sources behind the heading's “i”
+- Block 55, the winery booking software, is connected to ten of its client wineries
+- On computers, drag the edge of the details sidebar to widen or narrow it; your browser remembers the width
+- Menus across the site have a new look, and work the same with a mouse, the keyboard or a screen reader
+
 ## 1.96 · 12 November 2026
 
 **Wine Crush Podcast and the Oregon Wine History Archive**
