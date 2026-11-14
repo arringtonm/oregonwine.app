@@ -2,6 +2,16 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.98 · 14 November 2026
+
+**Oregon Wine Press, closings and visiting details**
+
+- 228 new people and places and 712 new connections from Oregon Wine Press articles, with those articles added as sources to 1,300 more records
+- 33 wineries marked closed and 13 marked as outside Oregon; a winery whose closing year no source gives reads simply “closed”
+- About 250 more websites, 40 visitor addresses and 60 booking pages, mostly from wineries' own sites
+- Visiting details for 77 more tasting rooms
+- Corrections: Erath Winery founded in 1968, its first wine in 1972; Cal Knudsen a co-founder until 1987; Deux Vert and Ruby Vineyard brought together with their earlier names; Montinore's Landlines and Tidalstar; several spellings
+
 ## 1.97 · 13 November 2026
 
 **Wine sizes, Block 55's clients, and a sidebar you can widen**
