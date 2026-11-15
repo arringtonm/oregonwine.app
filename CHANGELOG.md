@@ -2,6 +2,17 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.99 · 14 November 2026
+
+**Visiting details on every winery, a tidier card, and change history**
+
+- A winery's card says whether it's open today in Oregon, its hours, how bookings work and what a tasting costs, with a Book button where the winery takes bookings online; hovering a winery on the map says whether it's open today
+- The top of each card is simpler: the facts, the visiting line and one row of buttons, with the number of connections as a link on the facts line
+- Each record lists the corrections made to it, with their dates and sources, and “Cite this record” gives a ready-made citation to copy
+- Closed wineries read “Closed” at the start of their facts, with no hours or visiting details
+- Consistent sizes, spacing and buttons across the site, the map's controls lined up with the rest, and a comfortable reading width on tablets
+- Sources are named by their titles: about 540 that showed a page's navigation, such as “Skip to main content”, now name the article or page
+
 ## 1.98 · 14 November 2026
 
 **Oregon Wine Press, closings and visiting details**
