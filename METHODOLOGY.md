@@ -115,6 +115,12 @@ Outlines of the land under vine come from OpenStreetMap. An outline is matched t
 
 AVA boundaries and the dates each was recognised come from the UC Davis Library's public-domain AVA maps.
 
+## Visiting details
+
+A tasting room's hours, how it's booked (walk-ins welcome, reservations recommended or required, by appointment only), what a tasting costs and its booking page come first from the winery's own site and booking page, then from the Oregon Wine Board's directory. Each detail is checked against the page it cites, as any record is. A card shows "not yet checked" beside details the check hasn't confirmed, and names the directory and its year where a detail comes from there. "Open today" is worked out from the hours for the reader's own date.
+
+These are the hardest details to verify: many winery sites load their hours with JavaScript or turn away automated reading, so fewer of them are verified than of anything else, and some are confirmed by a person reading the site. Hours change, so check with the winery before you drive.
+
 ## Rules we follow
 
 - **Nothing is guessed.** If no source gives a year, the record has no year. Hedged statements ("I think", "reportedly") don't become records.

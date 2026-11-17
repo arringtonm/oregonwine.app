@@ -2,6 +2,18 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.100 · 17 November 2026
+
+**Guides, Keep exploring and return visits**
+
+- Guides are back: nine ready-made tours of Oregon wine, from family trees and mentors to Southern Oregon, from the Guides menu or the start panel
+- “Young Vintages” and “Library Wines”, now in quotes as the puns they are, keep to Oregon's own wineries, vineyards and people, and the Guides button is filled while a guide is showing
+- Each card ends with Keep exploring: up to three records to open next, each with the reason it's worth a look, such as the next in a line of mentors or another winery sharing the same vineyard
+- Hours and visiting details for about 20 more tasting rooms in the north Willamette Valley, among them Argyle, Chehalem, Lemelson, The Eyrie Vineyards, Antica Terra, ROCO and Montinore
+- Grapes and fruit sources for Gramercy Cellars and Rôtie Cellars, and the Yakima Valley placed within the Columbia Valley
+- The visit counter now notes whether a reader has been here before, keeping only the date of the last visit in the browser and never sending it; readers in Europe are asked first. About's Privacy section explains it
+- The page loads a little lighter: the graph's saved arrangement now arrives with its data rather than with the app
+
 ## 1.99 · 14 November 2026
 
 **Visiting details on every winery, a tidier card, and change history**

@@ -16,9 +16,17 @@ The site's own code and data pipeline are not published here.
 
 ### The graph
 
-Every person, winery, vineyard, AVA, organization and event is a point, and every relationship between them is a line. Open one to see its story, its connections and the sources for each. A winery's card also gives its tasting rooms with directions, its website and phone, and a summary of the wines it makes, read from its federal label approvals.
+Every person, winery, vineyard, AVA, organization and event is a point, and every relationship between them is a line. Open one to see its story, its connections and the sources for each. A winery's card also says whether it's open today, with its hours, how bookings work and what a tasting costs, with a **Book** button where the winery takes bookings online. It also gives directions to each tasting room, the winery's website and phone, and a summary of the wines it makes, read from its federal label approvals and its own pages.
 
-![The Eyrie Vineyards open on the graph, with its connections drawn and its card beside them](screenshots/record.jpg)
+At the foot of each card, **Keep exploring** suggests up to three records to open next, each with its reason: the next in a line of mentors, another winery buying from the same vineyard, a place founded the same year nearby.
+
+![The Eyrie Vineyards open on the graph, with its connections drawn and its card beside them: open today, reservations required, a $40 tasting](screenshots/record.jpg)
+
+### Guides
+
+Nine ready-made ways in, each setting the graph or the map to tell one story: Family trees and mentors, Following the fruit, Who started what, Sparkling (Method Oregon's members), Southern Oregon, Beyond the Willamette Valley, “Library Wines” (Oregon's originals, founded or planted before 1985), “Young Vintages” (since 2015) and Through the years. Each has its own address, such as [oregonwine.app/guides/following-the-fruit](https://www.oregonwine.app/guides/following-the-fruit).
+
+![The Guides menu open over Following the fruit: wineries joined to the vineyards they buy from](screenshots/guides.jpg)
 
 ### The map
 
@@ -40,7 +48,7 @@ Name any two people or places to see the fewest steps between them, each step wi
 
 ### Through the years
 
-**Timeline** shows the graph or the map as it stood in any year. Press Play to watch Oregon wine grow from the 1960s.
+**Timeline** shows the graph or the map as it stood in any year. Press Play to watch Oregon wine grow from the 1960s, as the records date it.
 
 ![The map in 1975: the first few dozen wineries and vineyards of the northern Willamette Valley](screenshots/timeline.jpg)
 
@@ -63,25 +71,26 @@ The whole site works on a phone, with the record in a sheet under the graph or t
 
 - **A list view** for reading everything by name, by keyboard or screen reader.
 - **Saved and Recently viewed,** kept in your browser.
+- **Changes and Cite this record.** Each record lists the corrections made to it, with their dates and sources, and gives a ready-made citation to copy.
 - **Oral histories.** Hundreds of people and places link to their interview in Linfield University's Oregon Wine History Archive.
 
 Every record has its own address. For example, [oregonwine.app/the-eyrie-vineyards](https://www.oregonwine.app/the-eyrie-vineyards) opens straight to The Eyrie Vineyards.
 
 ## What's in it
 
-As of 10 November 2026 (version 1.94):
+As of 17 November 2026 (version 1.100):
 
 | | Records |
 |---|---|
-| People | 2,477 |
-| Wineries | 1,167 |
-| Vineyards | 700 |
-| Organizations | 424 |
+| People | 2,625 |
+| Wineries | 1,193 |
+| Vineyards | 740 |
+| Organizations | 437 |
 | AVAs | 25 |
-| Events | 17 |
-| **Connections** | **13,609** |
+| Events | 22 |
+| **Connections** | **14,346** |
 
-Nearly nine in ten of these records are verified against their sources; [How it's made](METHODOLOGY.md) explains how.
+Alongside them are about 6,900 facts (the grapes a winery makes or a vineyard grows, wine styles, sizes, farming) and visiting details for nearly 600 tasting rooms. Every one cites its sources, about 60,000 citations to 20,000 pages on nearly 1,200 sites, and nearly nine in ten are verified against them; [How it's made](METHODOLOGY.md) explains how.
 
 Coverage is strongest for the northern Willamette Valley, where Oregon's modern wine industry began and where most published history concentrates. The Walla Walla Valley and the Rocks District, which share Oregon's border, are included with their people and places. Southern Oregon and the Columbia Gorge are thinner.
 
