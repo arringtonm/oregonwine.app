@@ -2,6 +2,14 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.101 · 17 November 2026
+
+**Opening hours for 50 more tasting rooms**
+
+- Opening hours, booking and tasting fees for about 50 more tasting rooms across Oregon, from Ponzi and Abacela to Cowhorn and Edgefield, read from the wineries' own sites
+- 30 more tasting rooms' details confirmed against their own pages or by hand
+- The graph is drawn sooner on phones, and opening a record is a little quicker
+
 ## 1.100 · 17 November 2026
 
 **Guides, Keep exploring and return visits**
