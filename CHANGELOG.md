@@ -2,6 +2,13 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.102 · 21 November 2026
+
+**A tidier toolbar on phones**
+
+- On phones the toolbar keeps to two rows again: Reset appears once there's something to reset, and is always in Filters
+- On phones, text no longer shows between the handle and the title while scrolling the steps between two records
+
 ## 1.101 · 17 November 2026
 
 **Opening hours for 50 more tasting rooms**
