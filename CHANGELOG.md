@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.103 · 24 November 2026
+
+**A shorter toolbar on phones**
+
+- On phones the toolbar is two rows again, with Reset always at the end of the second
+- The dice and Explore Connections sit beside the search box, which says Ask
+- Phones use the browser's own Back and Forward, or a swipe from the edge, in place of the toolbar's arrows; History stays
+- The map has a Show my location button, under 3D: it centres the map on you, with a blue dot. Your browser asks first, and your location never leaves it
+
 ## 1.102 · 21 November 2026
 
 **A tidier toolbar on phones**

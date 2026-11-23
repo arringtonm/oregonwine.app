@@ -30,7 +30,7 @@ Nine ready-made ways in, each setting the graph or the map to tell one story: Fa
 
 ### The map
 
-Wineries at every tasting room they run, or where their wine is made. Vineyards are shown at their own sites and, where they're mapped, as outlines of the land under vine. The official AVA boundaries are drawn too, and lines show which vineyards supply which wineries. Opening a record zooms in to it; **Show all its connections** frames everything it's tied to.
+Wineries at every tasting room they run, or where their wine is made. Vineyards are shown at their own sites and, where they're mapped, as outlines of the land under vine. The official AVA boundaries are drawn too, and lines show which vineyards supply which wineries. Opening a record zooms in to it; **Show all its connections** frames everything it's tied to. **Show my location**, under the 3D button, centres the map on you with a blue dot: your browser asks first, and your location stays in it.
 
 ![Argyle Winery on the map, with lines to the vineyards it buys from and the Dundee Hills around it](screenshots/map.jpg)
 
