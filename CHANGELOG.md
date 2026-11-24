@@ -2,6 +2,12 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.104 · 24 November 2026
+
+**Ask knows when you mean nearby**
+
+- Search for wine near me, nearby, the closest winery or wine near a town and the first suggestion is the tasting rooms near you or near that town, ahead of any name
+
 ## 1.103 · 24 November 2026
 
 **A shorter toolbar on phones**
