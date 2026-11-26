@@ -2,6 +2,15 @@
 
 Every release of [oregonwine.app](https://www.oregonwine.app), newest first, in the words of the site's own "What's new". Versions before 1.0 were not numbered; they are summarised by day at the end.
 
+## 1.105 · 26 November 2026
+
+**Vineyards show their elevation and soils**
+
+- A vineyard’s card now gives its elevation and soils beside its acres, for example “140 acres planted at 320–630 feet, on Willakenzie soil.”
+- Where a vineyard is mapped, elevation and soils come from USGS’s elevation survey and USDA’s soil survey, read across its blocks; elsewhere from the pages its sources cite, checked against them.
+- Its “How we know” note names each soil as the survey or page gives it (“Jory silty clay loam”) and where each figure came from.
+- 356 vineyards now have an elevation or soils, and 19 more are placed on the map.
+
 ## 1.104 · 24 November 2026
 
 **Ask knows when you mean nearby**
